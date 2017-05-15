@@ -1,2 +1,2 @@
 # RestaurantData
-foodvite restaurant data aggregator
+foodvite internship restaurant data aggregator
